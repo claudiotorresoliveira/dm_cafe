@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../documentos"
+		},
+		{
+			"path": "../dados_recebidos"
+		}
+	],
+	"settings": {}
+}
